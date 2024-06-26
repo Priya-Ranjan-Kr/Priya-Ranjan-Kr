@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priya-Ranjan-Kr
-- 👀 I’m interested in business analytics and data-driven decision-making roles.
+- 👀 I’m interested in Business analytics and data-driven decision-making roles.
 - 🌱 I’m currently learning advanced statistical methods and machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects related to predictive analytics and business intelligence.
 - 📫 You can reach me on GitHub at @Priya-Ranjan-Kr. or on LinkedIn at @ pranjankr or via email @ priyaranjankumar238@gmail.com
